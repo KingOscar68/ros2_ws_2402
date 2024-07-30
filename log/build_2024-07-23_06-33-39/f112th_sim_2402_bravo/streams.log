@@ -1,0 +1,33 @@
+[0.021s] Invoking command in '/home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --build /home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo -- -j8 -l8
+[0.354s] Invoked command in '/home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --build /home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo -- -j8 -l8
+[0.405s] Invoking command in '/home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --install /home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo
+[0.417s] -- Install configuration: ""
+[0.417s] -- Execute custom install script
+[0.418s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/empty.yaml
+[0.418s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/joystick.yaml
+[0.418s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/gazebo_control.xacro
+[0.419s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/inertial_macros.xacro
+[0.419s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/properties.xacro
+[0.419s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/robot.urdf.xacro
+[0.419s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/robot_core.xacro
+[0.420s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/rviz_model.rviz
+[0.420s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/launch/joystick.launch.py
+[0.420s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/launch/launch_sim.launch.py
+[0.420s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/launch/rsp.launch.py
+[0.420s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/worlds/empty.world
+[0.421s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/ament_index/resource_index/package_run_dependencies/f112th_sim_2402_bravo
+[0.421s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/ament_index/resource_index/parent_prefix_path/f112th_sim_2402_bravo
+[0.421s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/environment/ament_prefix_path.sh
+[0.421s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/environment/ament_prefix_path.dsv
+[0.422s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/environment/path.sh
+[0.422s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/environment/path.dsv
+[0.422s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/local_setup.bash
+[0.422s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/local_setup.sh
+[0.422s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/local_setup.zsh
+[0.422s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/local_setup.dsv
+[0.423s] -- Symlinking: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/package.dsv
+[0.438s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/ament_index/resource_index/packages/f112th_sim_2402_bravo
+[0.439s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/cmake/f112th_sim_2402_bravoConfig.cmake
+[0.439s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/cmake/f112th_sim_2402_bravoConfig-version.cmake
+[0.440s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/package.xml
+[0.444s] Invoked command in '/home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --install /home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo

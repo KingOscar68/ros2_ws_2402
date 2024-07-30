@@ -1,0 +1,1 @@
+/home/oscar/ros2_ws_2402/build/f112th_sim_2402_bravo/ament_cmake_environment_hooks/local_setup.zsh

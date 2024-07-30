@@ -1,0 +1,19 @@
+[0.825s] Invoking command in '/home/oscar/ros2_ws_2402/build/joy_tester': PYTHONPATH=/home/oscar/ros2_ws_2402/build/joy_tester/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/oscar/ros2_ws_2402/build/joy_tester/build --no-deps symlink_data
+[1.163s] running develop
+[1.164s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.164s]   warnings.warn(
+[1.384s] running egg_info
+[1.385s] writing joy_tester.egg-info/PKG-INFO
+[1.385s] writing dependency_links to joy_tester.egg-info/dependency_links.txt
+[1.385s] writing entry points to joy_tester.egg-info/entry_points.txt
+[1.385s] writing requirements to joy_tester.egg-info/requires.txt
+[1.385s] writing top-level names to joy_tester.egg-info/top_level.txt
+[1.388s] reading manifest file 'joy_tester.egg-info/SOURCES.txt'
+[1.388s] writing manifest file 'joy_tester.egg-info/SOURCES.txt'
+[1.390s] running build_ext
+[1.391s] Creating /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy-tester.egg-link (link to .)
+[1.391s] Installing test_joy script to /home/oscar/ros2_ws_2402/install/joy_tester/lib/joy_tester
+[1.392s] 
+[1.392s] Installed /home/oscar/ros2_ws_2402/build/joy_tester
+[1.392s] running symlink_data
+[1.438s] Invoked command in '/home/oscar/ros2_ws_2402/build/joy_tester' returned '0': PYTHONPATH=/home/oscar/ros2_ws_2402/build/joy_tester/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/oscar/ros2_ws_2402/build/joy_tester/build --no-deps symlink_data

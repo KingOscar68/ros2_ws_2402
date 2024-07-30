@@ -1,0 +1,34 @@
+[0.813s] Invoking command in '/home/oscar/ros2_ws_2402/build/joy_tester': PYTHONPATH=/home/oscar/ros2_ws_2402/build/joy_tester/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/oscar/ros2_ws_2402/build/joy_tester/build
+[1.117s] running develop
+[1.117s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.118s]   warnings.warn(
+[1.330s] Removing /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy-tester.egg-link (link to .)
+[1.372s] Invoked command in '/home/oscar/ros2_ws_2402/build/joy_tester' returned '0': PYTHONPATH=/home/oscar/ros2_ws_2402/build/joy_tester/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/oscar/ros2_ws_2402/build/joy_tester/build
+[1.375s] Invoking command in '/home/oscar/ros2_ws_2402/src/joy_tester': PYTHONPATH=/home/oscar/ros2_ws_2402/build/joy_tester/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/joy_tester build --build-base /home/oscar/ros2_ws_2402/build/joy_tester/build install --record /home/oscar/ros2_ws_2402/build/joy_tester/install.log --single-version-externally-managed install_data --force
+[1.654s] running egg_info
+[1.655s] writing ../../build/joy_tester/joy_tester.egg-info/PKG-INFO
+[1.656s] writing dependency_links to ../../build/joy_tester/joy_tester.egg-info/dependency_links.txt
+[1.656s] writing entry points to ../../build/joy_tester/joy_tester.egg-info/entry_points.txt
+[1.656s] writing requirements to ../../build/joy_tester/joy_tester.egg-info/requires.txt
+[1.656s] writing top-level names to ../../build/joy_tester/joy_tester.egg-info/top_level.txt
+[1.658s] reading manifest file '../../build/joy_tester/joy_tester.egg-info/SOURCES.txt'
+[1.659s] adding license file 'LICENSE'
+[1.659s] writing manifest file '../../build/joy_tester/joy_tester.egg-info/SOURCES.txt'
+[1.660s] running build
+[1.660s] running build_py
+[1.660s] running install
+[1.660s] running install_lib
+[1.661s] creating /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy_tester
+[1.661s] copying /home/oscar/ros2_ws_2402/build/joy_tester/build/lib/joy_tester/__init__.py -> /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy_tester
+[1.661s] copying /home/oscar/ros2_ws_2402/build/joy_tester/build/lib/joy_tester/test_joy.py -> /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy_tester
+[1.662s] byte-compiling /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy_tester/__init__.py to __init__.cpython-310.pyc
+[1.663s] byte-compiling /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy_tester/test_joy.py to test_joy.cpython-310.pyc
+[1.664s] running install_data
+[1.664s] copying resource/joy_tester -> /home/oscar/ros2_ws_2402/install/joy_tester/share/ament_index/resource_index/packages
+[1.664s] copying package.xml -> /home/oscar/ros2_ws_2402/install/joy_tester/share/joy_tester
+[1.664s] running install_egg_info
+[1.666s] Copying ../../build/joy_tester/joy_tester.egg-info to /home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages/joy_tester-0.0.2-py3.10.egg-info
+[1.667s] running install_scripts
+[1.690s] Installing test_joy script to /home/oscar/ros2_ws_2402/install/joy_tester/lib/joy_tester
+[1.690s] writing list of installed files to '/home/oscar/ros2_ws_2402/build/joy_tester/install.log'
+[1.726s] Invoked command in '/home/oscar/ros2_ws_2402/src/joy_tester' returned '0': PYTHONPATH=/home/oscar/ros2_ws_2402/build/joy_tester/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/oscar/ros2_ws_2402/install/joy_tester/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/joy_tester build --build-base /home/oscar/ros2_ws_2402/build/joy_tester/build install --record /home/oscar/ros2_ws_2402/build/joy_tester/install.log --single-version-externally-managed install_data --force
