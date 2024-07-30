@@ -1,6 +1,8 @@
 /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/empty.yaml
+/home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/gazebo_params.yaml
 /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/joystick.yaml
 /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/my_controllers.yaml
+/home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/config/twist_mux.yaml
 /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/gazebo_control.xacro
 /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/inertial_macros.xacro
 /home/oscar/ros2_ws_2402/install/f112th_sim_2402_bravo/share/f112th_sim_2402_bravo/description/lidar.xacro

@@ -1,0 +1,40 @@
+[0.430s] Invoking command in '/home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --build /home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2 -- -j8 -l8
+[0.498s] [35m[1mConsolidate compiler generated dependencies of target ros2_control_demo_example_2[0m
+[0.540s] [100%] Built target ros2_control_demo_example_2
+[0.567s] Invoked command in '/home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --build /home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2 -- -j8 -l8
+[0.626s] Invoking command in '/home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --install /home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2
+[0.637s] -- Install configuration: ""
+[0.638s] -- Execute custom install script
+[0.638s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2//ros2_control_demo_example_2.xml
+[0.639s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/include/ros2_control_demo_example_2/ros2_control_demo_example_2/diffbot_system.hpp
+[0.640s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/launch/view_robot.launch.py
+[0.640s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/ros2_control/diffbot.ros2_control.xacro
+[0.641s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/urdf/diffbot.materials.xacro
+[0.641s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/urdf/diffbot.urdf.xacro
+[0.641s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/urdf/diffbot_description.urdf.xacro
+[0.642s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/launch/diffbot.launch.py
+[0.642s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/config/diffbot_controllers.yaml
+[0.642s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/library_path.sh
+[0.642s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/library_path.dsv
+[0.643s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ament_index/resource_index/package_run_dependencies/ros2_control_demo_example_2
+[0.643s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ament_index/resource_index/parent_prefix_path/ros2_control_demo_example_2
+[0.643s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/ament_prefix_path.sh
+[0.643s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/ament_prefix_path.dsv
+[0.644s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/path.sh
+[0.644s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/environment/path.dsv
+[0.644s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.bash
+[0.644s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.sh
+[0.645s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.zsh
+[0.645s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/local_setup.dsv
+[0.645s] -- Symlinking: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/package.dsv
+[0.661s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ament_index/resource_index/packages/ros2_control_demo_example_2
+[0.662s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/ros2_control_demo_example_2
+[0.662s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ament_cmake_export_targets-extras.cmake
+[0.662s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.663s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ros2_control_demo_example_2Config.cmake
+[0.663s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/ros2_control_demo_example_2Config-version.cmake
+[0.663s] -- Up-to-date symlink: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/package.xml
+[0.663s] -- Up-to-date: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/lib/libros2_control_demo_example_2.so
+[0.664s] -- Up-to-date: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/export_ros2_control_demo_example_2Export.cmake
+[0.664s] -- Up-to-date: /home/oscar/ros2_ws_2402/install/ros2_control_demo_example_2/share/ros2_control_demo_example_2/cmake/export_ros2_control_demo_example_2Export-noconfig.cmake
+[0.669s] Invoked command in '/home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/oscar/ros2_ws_2402/install/joy_tester:/opt/ros/humble /usr/bin/cmake --install /home/oscar/ros2_ws_2402/build/ros2_control_demo_example_2

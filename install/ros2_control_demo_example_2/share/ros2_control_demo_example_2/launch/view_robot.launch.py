@@ -1,0 +1,1 @@
+/home/oscar/ros2_ws_2402/src/example_2/description/launch/view_robot.launch.py
